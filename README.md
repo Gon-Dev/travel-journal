@@ -2,12 +2,16 @@
 
 Another study case folks! This is not my first React project but the first I craft so fast. React its proving to be really handy, and I saw almost the top of the iceberg. I'm so exited!
 
+# Live Preview
+
+- https://travel-journal-eta.vercel.app/
+
 # What I'm learning here
 
 - React basic concepts: elements, components, JSX, data and props.
 - How to set a React app with create react app bundler.
 - Basic React project structure.
-- Deployment in a third party service than GitHub Pages: Netlify.
+- Deployment in a third party service than GitHub Pages: Vercel.
 
 # Actual course i'm following
 

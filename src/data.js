@@ -15,7 +15,7 @@ export const data = [
         startDate: "Nov, 2001",
         endDate: "Nov, 2004",
         description: "Viridian City (Japanese: トキワシティ Tokiwa City) is a small city located in western Kanto. It is home to the Viridian Gym, which can only be challenged by the player once they have obtained the Badges of the seven other Gyms of Kanto.",
-        imageUrl: "https://archives.bulbagarden.net/media/upload/b/be/Viridian_City_PG.png"
+        imageUrl: "https://cdna.artstation.com/p/assets/images/images/018/394/200/large/simone-mandl-007-01.jpg"
     },
     {
         title: "Orgrimmar",
