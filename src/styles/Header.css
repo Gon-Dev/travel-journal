@@ -1,0 +1,14 @@
+.header-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: #F55A5A;
+    height: 55px;
+}
+.header-title {
+    color: #FFFFFF;
+    font-size: 15px;
+}
